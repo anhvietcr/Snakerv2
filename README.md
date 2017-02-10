@@ -1,6 +1,8 @@
 # Snaker v2
 Snaker v2 in Console with C++
 
+https://www.youtube.com/watch?v=IYN8jWlwFdI
+
 			******************** COPYRIGHT 2016 ******************************
 + Software              : Snaker v2
 + Coding		: Phan Anh Viet (Anhvietcr)
