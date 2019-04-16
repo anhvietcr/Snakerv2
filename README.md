@@ -1,7 +1,13 @@
 # Snaker v2
 Snaker v2 in Console with C++
 
+Video on Youtube
+------------------------------------------
 https://www.youtube.com/watch?v=IYN8jWlwFdI
+
+Preview Software Application
+------------------------------------------
+[![GitHub release](preview.PNG)](preview)
 
 			******************** COPYRIGHT 2016 ******************************
 + Software              : Snaker v2

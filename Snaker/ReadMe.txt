@@ -1,0 +1,3 @@
+- Do not change file name of game
+- Open with Administrator
+- Thanks you play game <3
